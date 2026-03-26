@@ -87,16 +87,6 @@
 
 ---
 
-### 🎵 Spotify Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-rudra-narayan-ji.vercel.app/api/spotify)](https://open.spotify.com/user/Rudra_Narayan_Ji)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -105,13 +95,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraNarayan2005&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
-
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -119,20 +102,6 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=RudraNarayan2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-### 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake.svg" />
-</picture>
 
 </div>
 
