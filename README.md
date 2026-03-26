@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Rudra%20Narayan%20Rout%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergrad%20%7C%20Backend%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=16" />
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%F0%9F%8E%93;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A8)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RudraNarayan2005&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -31,9 +39,10 @@
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-narayan-rout)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rudranarayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranarayanrout)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rudra_narayan_ji)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RudraNarayan2005)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudranarayanrout2005@gmail.com)
 
 </div>
 
@@ -78,6 +87,16 @@
 
 ---
 
+### 🎵 Spotify Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-rudra-narayan-ji.vercel.app/api/spotify)](https://open.spotify.com/user/Rudra_Narayan_Ji)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -100,6 +119,20 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=RudraNarayan2005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+### 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RudraNarayan2005/RudraNarayan2005/output/github-snake.svg" />
+</picture>
 
 </div>
 
