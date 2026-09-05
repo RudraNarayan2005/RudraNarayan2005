@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Rudra%20Narayan%20Rout%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergrad%20%7C%20Backend%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Rudra%20Narayan%20Rout%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergrad%20%7C%20AI%2FML%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=16" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%F0%9F%8E%93;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%F0%9F%8E%93;AI%2FML+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%94%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 ### 💫 About Me
 
-- 🎓 Computer Science undergrad passionate about building **efficient software** and solving **real-world problems**
-- 💻 Love working with **Java**, **Python**, and **backend technologies**
-- 🤖 Exploring the fascinating world of **AI & Machine Learning**
+- 🎓 Computer Science undergrad focused on **Artificial Intelligence and Machine Learning**
+- 🤖 I train and deploy ML models — classification, risk prediction, and turning data into systems that make real decisions
+- 🐍 Core stack is **Python** — Scikit-learn, XGBoost, Pandas, NumPy — paired with **FastAPI** so models ship as real, usable applications, not just notebooks
 - 🌱 Currently leveling up in **Data Structures & Algorithms**
 - 🔨 Always working on something — *always learning, always building*
 
@@ -27,9 +27,9 @@
 ### 🎯 Currently Focused On
 
 ```text
-📐 Data Structures & Algorithms
-🖥️  Backend Development
 🧠 AI & Machine Learning
+📐 Data Structures & Algorithms
+🖥️  Shipping ML as Real Software
 🔨 Building Real-World Projects
 ```
 
@@ -50,25 +50,33 @@
 
 ### 💻 Tech Stack
 
+**AI / ML**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge)
+
 **Languages**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Backend & Frameworks**
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Databases**
+**Data & Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Shipping ML as Software**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Tools & Platforms**
 
@@ -77,13 +85,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-**AI/ML**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
